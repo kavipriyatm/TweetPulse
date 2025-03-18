@@ -1,0 +1,26 @@
+2025-03-17 12:15:06,591 - INFO - Starting trend prediction analysis.
+2025-03-17 12:15:06,597 - INFO - Loaded processed tweet data successfully.
+2025-03-17 12:15:06,598 - ERROR - Error: No hashtags found in the tweets.
+2025-03-17 12:15:06,598 - ERROR - No hashtag counts found.
+2025-03-17 12:15:06,598 - INFO - Trend prediction analysis completed.
+2025-03-17 12:15:52,971 - INFO - Starting trend prediction analysis.
+2025-03-17 12:15:52,978 - INFO - Loaded processed tweet data successfully.
+2025-03-17 12:15:52,979 - ERROR - Error: No hashtags found in the tweets.
+2025-03-17 12:15:52,979 - ERROR - No hashtag counts found.
+2025-03-17 12:15:52,979 - INFO - Trend prediction analysis completed.
+2025-03-17 12:19:02,736 - INFO - Starting trend prediction analysis.
+2025-03-17 12:19:02,748 - INFO - Loaded processed tweet data successfully.
+2025-03-17 12:19:02,749 - ERROR - Error: No hashtags found in the tweets.
+2025-03-17 12:19:02,749 - ERROR - No hashtag counts found.
+2025-03-17 12:19:02,749 - INFO - Trend prediction analysis completed.
+2025-03-17 12:20:15,476 - INFO - Starting trend prediction analysis.
+2025-03-17 12:20:15,482 - INFO - Loaded processed tweet data successfully.
+2025-03-17 12:20:15,482 - ERROR - Error: No hashtags found in the tweets.
+2025-03-17 12:20:15,483 - ERROR - No hashtag counts found.
+2025-03-17 12:20:15,483 - INFO - Trend prediction analysis completed.
+2025-03-17 12:22:17,392 - INFO - Running trend prediction.
+2025-03-17 12:22:17,400 - INFO - Data loaded successfully with 100 rows.
+2025-03-17 12:22:17,401 - INFO - Extracted 0 hashtags.
+2025-03-17 12:22:17,401 - WARNING - No hashtags found in the tweets.
+2025-03-17 12:22:17,401 - WARNING - No hashtags to plot.
+2025-03-17 12:22:17,401 - INFO - Trend prediction process completed.
