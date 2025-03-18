@@ -163,11 +163,3 @@ GitHub: [@kavipriyatm](https://github.com/kavipriyatm)
 [MIT](LICENSE)
 ```
 
----
-
-### ✅ Notes:
-- This README tells them where to create `.env` and exactly how to format it.
-- `.env` is assumed to be next to `sentiment.py` inside `src/`.
-- You don't need to edit anything. Just drop this into your GitHub project as `README.md`.
-
-If you want, I can help you make a sample `.env` and `.gitignore` too!
