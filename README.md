@@ -64,12 +64,14 @@ The analysis provides insights into public opinion on the given keywords or hash
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/kavipriyatm/TweetPulse.git
+
 ```
 
 ### 2️⃣ Navigate to the Project Folder
 ```bash
-cd your-repo-name/src
+cd TweetPulse/src
+
 ```
 
 ### 3️⃣ Create a `.env` File in the Root Directory
@@ -151,7 +153,9 @@ A bar chart showing the count of Positive, Neutral, and Negative tweets.
 ---
 
 ## ✍️ Author
-- KAVIPRIYA  (or GitHub handle)
+
+👤 **Kavipriya TM**  
+GitHub: [@kavipriyatm](https://github.com/kavipriyatm)
 
 ---
 
