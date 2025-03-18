@@ -1,4 +1,3 @@
-# test/test_hashtags.py
 import unittest
 import pandas as pd
 from src.trend_predictor import analyze_keywords
@@ -6,7 +5,7 @@ from src.trend_predictor import analyze_keywords
 class TestHashtagAnalysis(unittest.TestCase):
     
     def setUp(self):
-        # Sample input data for testing
+      
         self.tweet_data = pd.DataFrame({
             'cleaned_text': ['#AI is awesome', 'Learning #AI and #ML', '#DataScience rules']
         })
