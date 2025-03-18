@@ -79,11 +79,14 @@ Create a file named `.env` (next to `sentiment.py`).
 Paste your Twitter API keys in this format:
 
 ```
-BEARER_TOKEN=your_bearer_token_here
-API_KEY=your_api_key_here
-API_SECRET_KEY=your_api_secret_key_here
-ACCESS_TOKEN=your_access_token_here
-ACCESS_TOKEN_SECRET=your_access_token_secret_here
+TWITTER_API_KEY="YOUR TWITTER_API_SECRET"
+TWITTER_API_SECRET="YOUR TWITTER_API_SECRET"
+ACCESS_TOKEN="YOUR ACCESS_TOKEN"
+ACCESS_TOKEN_SECRET="YOUR ACCESS_TOKEN"
+BEARER_TOKEN="YOUR BEARER_TOKEN"
+CLIENT_ID = "YOUR CLIENT_ID"
+CLIENT_SECRET = "YOUR CLIENT_SECRET"
+
 ```
 
 > ⚠️ **Note:** Get these keys from your [Twitter Developer Portal](https://developer.twitter.com/).
@@ -148,7 +151,7 @@ A bar chart showing the count of Positive, Neutral, and Negative tweets.
 ---
 
 ## ✍️ Author
-- Your Name (or GitHub handle)
+- KAVIPRIYA  (or GitHub handle)
 
 ---
 
