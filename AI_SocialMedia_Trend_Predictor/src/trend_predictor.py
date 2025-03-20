@@ -74,6 +74,6 @@ def predict_trends():
   
     plot_trending_hashtags(hashtag_counts)
 
-# Main function to run the entire process
+
 if __name__ == "__main__":
     predict_trends()
